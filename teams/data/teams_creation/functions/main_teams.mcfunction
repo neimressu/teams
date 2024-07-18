@@ -1,0 +1,3 @@
+function teams_creation:create_green
+function teams_creation:create_blue
+function teams_creation:create_pink
