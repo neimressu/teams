@@ -12,3 +12,6 @@ scoreboard objectives remove leaveteam
 
 scoreboard players remove @a check
 scoreboard objectives remove check
+
+scoreboard players remove @a death_count
+scoreboard objectives remove death_count

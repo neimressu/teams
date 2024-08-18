@@ -1,1 +1,0 @@
-execute if entity @p[tag=!player] as @p[tag=!player] run gamemode spectator
