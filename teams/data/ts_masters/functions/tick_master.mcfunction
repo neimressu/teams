@@ -13,7 +13,7 @@ tag @a[tag=cherenok] remove cherenok
 execute at @a[tag=medic,team=blue] run effect give @a[distance=..1,team=blue,tag=!medic] regeneration 1 5 true
 execute at @a[tag=medic,team=green] run effect give @a[distance=..1,team=green,tag=!medic] regeneration 1 5 true
 
-execute at @a[tag=engineer,team=blue] run effect give @a[distance=..2,team=blue,tag=!engineer] resistance 1 1 true # op?
+execute at @a[tag=engineer,team=blue] run effect give @a[distance=..2,team=blue,tag=!engineer] resistance 1 1 true
 execute at @a[tag=medic,team=green] run effect give @a[distance=..2,team=green,tag=!engineer] resistance 1 1 true
 
 effect give @a[tag=!cap] xaerominimap:no_minimap 5 1 true
